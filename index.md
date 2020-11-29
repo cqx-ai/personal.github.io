@@ -1,5 +1,5 @@
 ### 个人信息
-#### 姓名：陈琪心                 [https://github.com/cqx-ai/personal.github.io/blob/gh-pages/%E8%87%AA%E5%B7%B1%E1%83%9A(%E2%80%B2%E2%97%89%E2%9D%A5%E2%97%89%EF%BD%80%E1%83%9A).jpg]
+#### 姓名：陈琪心                 
 #### 学历：大学本科
 #### 专业：网络空间安全
 #### 学校：浙江万里学院
